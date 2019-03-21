@@ -1,5 +1,7 @@
 {
   "name": "ionic4-crop",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
